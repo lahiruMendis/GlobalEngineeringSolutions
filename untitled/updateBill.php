@@ -18,7 +18,7 @@
  * Time: 1:57 PM
  */
 
-
+//Git test
 
 $billId = intval($_GET['billId']);
 echo $billId;
